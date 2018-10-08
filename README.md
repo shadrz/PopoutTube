@@ -13,10 +13,6 @@ npm start
 
 You started the app!
 
-###### Real Installer
+###### Installers
 
-[PopoutTube Installer for Windows](https://www.google.com "mega.nz")
-
-[PopoutTube Installer for Mac](https://www.google.com "mega.nz")
-
-[PopoutTube Installer for Linux](https://www.google.com "mega.nz")
+[PopoutTube Installer for Windows](https://mega.nz/#!IwJW2QxL!QRJvFPI0WIk5q_E4sC6PHoRZAJNz6mPL5Re9_gV-knU "Mega Installer")
